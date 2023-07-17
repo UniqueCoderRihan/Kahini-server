@@ -1,0 +1,139 @@
+[
+    {
+        "productName": "Walton Pad 10H, MediaTek Helio P60 Processor, Display 10.1 inch FH",
+        "seller": "Shovo Ahmed",
+         "sellerEmail":"abc@gmail.com",
+        "rating": 4.5,
+        "category": "ipad",
+        "img": "https://static-01.daraz.com.bd/p/006ce4d16a14c98c6e97af6cfd773f1a.jpg",
+        "price": 1700,
+        "availableStock": 100
+    },
+    {
+        "productName": "Walton Walpad 8G RAM 4GB Storage 64GB Display 8 inch IPS Quad Core",
+        "seller": "Shovo Ahmed", "sellerEmail":"abc@gmail.com",
+        "rating": 4.5,
+        "category": "ipad",
+        "img": "https://static-01.daraz.com.bd/p/562325d104cfd6deeaa01ef5f630af15.jpg",
+        "price": 1400,
+        "availableStock": 100
+    },
+    {
+        "productName": "Walton Walpad 8G RAM 4GB Storage 64GB Display 8 inch IPS Quad Core",
+        "seller": "Shovo Ahmed", "sellerEmail":"abc@gmail.com",
+        "rating": 4.5,
+        "category": "ipad",
+        "img": "https://static-01.daraz.com.bd/p/562325d104cfd6deeaa01ef5f630af15.jpg",
+        "price": 1400,
+        "availableStock": 100
+    },
+    {
+        "productName": "Walton Pad 10H, MediaTek Helio P60 Processor, Display 10.1 inch FH",
+        "seller": "Shovo Ahmed", "sellerEmail":"abc@gmail.com",
+        "rating": 4.5,
+        "category": "ipad",
+        "img": "https://static-01.daraz.com.bd/p/006ce4d16a14c98c6e97af6cfd773f1a.jpg",
+        "price": 1700,
+        "availableStock": 100
+    },
+    {
+        "productName": "Walton Walpad 8G RAM 4GB Storage 64GB Display 8 inch IPS Quad Core",
+        "seller": "Shovo Ahmed", "sellerEmail":"abc@gmail.com",
+        "rating": 4.5,
+        "category": "ipad",
+        "img": "https://static-01.daraz.com.bd/p/562325d104cfd6deeaa01ef5f630af15.jpg",
+        "price": 1400,
+        "availableStock": 100
+    },
+    {
+        "productName": "Walton Prelude N50 Pro Intel Pentium Silver Quad-Core Processor 8GB",
+        "seller": "Shovo Ahmed", "sellerEmail":"abc@gmail.com",
+        "rating": 4.5,
+        "category": "Laptop",
+        "img": "https://static-01.daraz.com.bd/p/3412092b9718dbaa5ebdf43c1fdb132e.jpg",
+        "price": 1400,
+        "availableStock": 100
+    },
+    {
+        "productName": "Walton Laptop Tamarind EX310A Core i3 Intel® 10 Generation",
+        "seller": "Shovo Ahmed", "sellerEmail":"abc@gmail.com",
+        "rating": 4.5,
+        "category": "Laptop",
+        "img": "https://static-01.daraz.com.bd/p/bf15ffe66d33a0a8987a27af72e21092.png",
+        "price": 1400,
+        "availableStock": 100
+    },
+    {
+        "productName": "Walton Laptop Tamarind MX511G Core i5 Intel 11th Generation",
+        "seller": "Shovo Ahmed", "sellerEmail":"abc@gmail.com",
+        "rating": 4.5,
+        "category": "Laptop",
+        "img": "https://static-01.daraz.com.bd/p/0dedd949f9a2e5e9c1f107355b277c1c.jpg",
+        "price": 1400,
+        "availableStock": 100
+    },
+    {
+        "productName": "Xiaomi Haylou RS3 LS04 Smart Watch Fashion AMOLED Screen 14",
+        "seller": "Shovo Ahmed", 
+        "sellerEmail":"watch@gmail.com",
+        "rating": 4.5,
+        "category": "watch",
+        "img": "https://static-01.daraz.com.bd/p/a5e3175dba18898d04d9121e65c62f17.jpg",
+        "price": 450,
+        "availableStock": 100
+    },
+    {
+        "productName": "D116 Plus Smart watch Bracelets Fitness Tracker",
+        "seller": "Shovo Ahmed", "sellerEmail":"watch@gmail.com",
+        "rating": 4.5,
+        "category": "watch",
+        "img": "https://static-01.daraz.com.bd/p/4b087baf611e81716545d146e7cf4fdc.jpg",
+        "price": 1400,
+        "availableStock": 100
+    },
+    {
+        "productName": "T500 Smart Watch Compatible with Android & iOS Bluetooth Calling",
+        "seller": "Shovo Ahmed", "sellerEmail":"abc@gmail.com",
+        "rating": 4.5,
+        "category": "watch",
+        "img": "https://static-01.daraz.com.bd/p/5dc25d6f1bb71fc866fb6052e6f70078.jpg",
+        "price": 1400,
+        "availableStock": 100
+    },
+    {
+        "productName": "T500 Smart Watch Compatible with Android & iOS Bluetooth Watch",
+        "seller": "Shovo Ahmed", "sellerEmail":"abc@gmail.com",
+        "rating": 4.5,
+        "category": "watch",
+        "img": "https://static-01.daraz.com.bd/p/7797252bb7d21b95e5f019d8c09a1735.jpg",
+        "price": 1400,
+        "availableStock": 100
+    },
+    {
+        "productName": "Number One Headphone. ",
+        "seller": "Shovo Ahmed", "sellerEmail":"abc@gmail.com",
+        "rating": 4.5,
+        "category": "headphone",
+        "img": "https://static-01.daraz.com.bd/p/2203722f9635466fc8d9e95ece2dbe86.jpg",
+        "price": 50,
+        "availableStock": 100
+    },
+    {
+        "productName": "Lenovo he05x sports magnetic wireless earphones ",
+        "seller": "Shovo Ahmed", "sellerEmail":"abc@gmail.com",
+        "rating": 4.5,
+        "category": "headphone",
+        "img": "https://static-01.daraz.com.bd/p/2bbe76fec04ce1d853e9bed969882afa.jpg",
+        "price": 50,
+        "availableStock": 100
+    },
+    {
+        "productName": "KT-2100MV Over-the-Ear Noise-Cancelling Headphone - Black ",
+        "seller": "Shovo Ahmed", "sellerEmail":"abc@gmail.com",
+        "rating": 4.5,
+        "category": "headphone",
+        "img": "https://static-01.daraz.com.bd/p/4cfe46ce8fc4874833952403eed088af.jpg",
+        "price": 50,
+        "availableStock": 100
+    }
+]
