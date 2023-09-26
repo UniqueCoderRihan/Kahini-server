@@ -51,5 +51,5 @@ app.get('/', (req, res) => {
 
 app.listen(port, () => {
     console.log('Hey Dev! No Pain No Gain!');
-    console.log(`Server is running onn Port: ${port}`);
+    console.log(`Server is running on Port: ${port}`);
 })
